@@ -16,4 +16,4 @@ Based on the graduate level Unix/C,C++ course at the University of Oregon
 
 
 ## Sample Outputs
-<img src="/images/puddles.png" alt="drawing" width="100" height="100/>
+!<img src="/images/puddles.png" alt="drawing" width="100" height="100/>
