@@ -16,4 +16,4 @@ Based on the graduate level Unix/C,C++ course at the University of Oregon
 
 
 ## Sample Outputs
-<a href="url"><img src="https://github.com/aobaruwa/Image-Processing/blob/main/images/puddles.png" align="left" height="400" width="400" ></a>
+<a href="url"><img src="https://github.com/aobaruwa/Image-Processing/blob/main/images/puddles.png" align="left" height="300" width="300" ></a>
