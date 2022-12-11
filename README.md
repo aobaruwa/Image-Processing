@@ -16,4 +16,4 @@ Based on the graduate level Unix/C,C++ course at the University of Oregon
 
 
 ## Sample Outputs
-![My animated logo](images/puddles.png)
+![My animated logo](images/puddles.png = 50x50)
