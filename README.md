@@ -16,4 +16,4 @@ Based on the graduate level Unix/C,C++ course at the University of Oregon
 
 
 ## Sample Outputs
-![](https://github.com/aobaruwa/Image-Processing/blob/main/images/puddles.png) =250x250)
+![](https://github.com/aobaruwa/Image-Processing/blob/main/images/puddles.png =50x50)
