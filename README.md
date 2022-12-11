@@ -11,7 +11,7 @@ Based on the graduate level Unix/C,C++ course at the University of Oregon
 5. Bluring <br>
 6. Concatenation (Left-Right, Top-Bottom) <br>
 7. Mirroring <br>
-8. GrayScale conversion <br>
+8. Grayscale conversion <br>
 9. Coloring <br>
 
 
