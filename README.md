@@ -13,3 +13,6 @@ Concatenation (Left-Right, Top-Bottom) <br>
 Mirroring <br>
 GrayScale conversion <br>
 Coloring <br>
+
+
+## Sample Outputs
