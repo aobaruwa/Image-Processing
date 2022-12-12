@@ -22,7 +22,7 @@ Based on the graduate level Unix/C,C++ course at the University of Oregon
 <a href="url"><img src="https://github.com/aobaruwa/Image-Processing/blob/main/images/grayscale.png" align="left" height="200" width="200" ></a>
 
 
-<a href="url"><img src="https://github.com/aobaruwa/Image-Processing/blob/main/images/blend.png" align="left" height="200" width="200" ></a>
-
-
 <a href="url"><img src="https://github.com/aobaruwa/Image-Processing/blob/main/images/rotate.png" align="left" height="200" width="200" ></a>
+
+
+<a href="url"><img src="https://github.com/aobaruwa/Image-Processing/blob/main/images/blend.png" align="left" height="200" width="200" ></a>
