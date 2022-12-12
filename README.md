@@ -7,7 +7,7 @@ Based on the graduate level Unix/C,C++ course at the University of Oregon
 1. Image Shrinking <br>
 2. Rotation <br>
 3. Blending <br>
-4. Subtraction <br>
+4. Color Subtraction <br>
 5. Bluring <br>
 6. Concatenation (Left-Right, Top-Bottom) <br>
 7. Mirroring <br>
