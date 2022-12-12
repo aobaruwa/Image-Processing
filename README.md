@@ -16,22 +16,10 @@ Based on the graduate level Unix/C,C++ course at the University of Oregon
 
 
 ## Sample Outputs
-<a href="url"><img src="https://github.com/aobaruwa/Image-Processing/blob/main/images/tux.png" align="left" height="300" width="300" ></a>
+<a href="url"><img src="https://github.com/aobaruwa/Image-Processing/blob/main/images/tux.png" align="left" height="200" width="200" ></a>
 
 
 <a href="url"><img src="https://github.com/aobaruwa/Image-Processing/blob/main/images/grayscale.png" align="left" height="300" width="300" ></a>
 
 
-<a href="url"><img src="https://github.com/aobaruwa/Image-Processing/blob/main/images/rotate.png" align="left" height="300" width="300" ></a>
-
-
 <a href="url"><img src="https://github.com/aobaruwa/Image-Processing/blob/main/images/blend.png" align="left" height="300" width="300" ></a>
-
-
-<a href="url"><img src="https://github.com/aobaruwa/Image-Processing/blob/main/images/gnu.png" align="left" height="300" width="300" ></a>
-
-
-<a href="url"><img src="https://github.com/aobaruwa/Image-Processing/blob/main/images/out.png" align="left" height="300" width="300" ></a>
-
-
-<a href="url"><img src="https://github.com/aobaruwa/Image-Processing/blob/main/images/mirror.png" align="left" height="300" width="300" ></a>
